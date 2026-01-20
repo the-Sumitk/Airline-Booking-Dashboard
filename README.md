@@ -60,7 +60,7 @@ The dashboard is built using **Power BI** to transform raw booking data into **i
 ---
 
 ### 🔹 Travel Class Distribution  
-- Economy vs Business vs First Class booking share  
+- Economy vs Business   
 - Visualized using pie chart for quick comparison
 
 ---
