@@ -2,12 +2,12 @@
 
 ---
 
-## 📝 1. Project Title / Headline  
+## 📝 1. Project Title 
 **Analysis and Visualization of Airline Booking, Revenue, and Passenger Trends**
 
 ---
 
-## 🎯 2. Short Description / Purpose  
+## 🎯 2. Short Description
 This project provides a complete analytical view of airline booking data to understand **booking patterns, revenue performance, passenger trends, and cancellations** across different airlines, routes, and travel classes.  
 The dashboard is built using **Power BI** to transform raw booking data into **interactive and actionable business insights** for decision-making.
 
@@ -35,7 +35,7 @@ The dashboard is built using **Power BI** to transform raw booking data into **i
 
 ---
 
-## ⭐ 5. Features / Highlights  
+## ⭐ 5. Features  
 
 ### 🔹 Interactive KPI Dashboard  
 - Total Bookings  
