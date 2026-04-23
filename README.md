@@ -118,7 +118,7 @@ In short, it converts complex data into **clear, visual, and actionable insights
 ## 👤 9. Author  
 
 **SUMIT KUMAR**  
-Power BI | Data Analytics Project  
+Data Analyst  
 
 ---
 
